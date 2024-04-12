@@ -19,3 +19,29 @@
     border: 1.5px solid crimson;
     width: 50%;
 }
+
+.Parents-2{
+    background-color: grey;
+}
+
+.Son-2 p {
+    border: 1.5px solid royalblue; 
+    display: inline;  
+    /* display: inline-block;
+    display: block; */
+    width: 50%;
+}
+
+/* In,Son-2 p (if we use display=inline - Width is not Working.
+However, display=block and display=inline-block is working.) */
+
+.Daughter-2 p{
+    border: 1.5px solid crimson;
+    display: inline;  
+    /* display: inline-block;
+    display: block; */
+    width: 50%;
+}
+
+/* same as in, .Daughter-2 p (if we use display=inline - Width is not Working.
+However, display=block and display=inline-block is working.) */
