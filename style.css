@@ -69,3 +69,19 @@ However, display=block and display=inline-block is working.) */
 However, if we use display=block, their Parents's Son and daughter image not show in a same row, they show in another row.) */
 
 
+.Parents-4{
+    background-color: darkkhaki;
+}
+
+.Son-4 img{
+    border: 1.5px solid royalblue;
+    width: 50%;
+}
+
+.Daughter-4 img{
+    width: 50%;
+    border: 1.5px solid crimson;
+}
+
+/* In,Assignment No.4 -> Their Child's Image shown as Zoom/Big Size.
+Because We use Width=50%... */
