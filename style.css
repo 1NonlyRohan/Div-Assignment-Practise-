@@ -54,10 +54,18 @@ However, display=block and display=inline-block is working.) */
 .Son-3 {
     border: 1.5px solid royalblue;
     width: 50%;
+    /* display: inline; */
+    /* display: block; */
 }
 
 .Daughter-3{
     width: 50%;
     border: 1.5px solid crimson;
+    /* display: inline; */
+    /* display: block; */
 }
+
+/* In, .Daughter-3 p (if we use display=inline - their Parents's Son and daughter image show in a same row.
+However, if we use display=block, their Parents's Son and daughter image not show in a same row, they show in another row.) */
+
 
