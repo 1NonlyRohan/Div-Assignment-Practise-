@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Parents-1{
+    color: white;
+    background-color: rgb(55, 55, 55);
+    width: 100%;
+}
+
+.Son-1 p {
+    border: 1.5px solid royalblue;   
+    width: 50%;
+}
+
+.Daughter-1 p{
+    border: 1.5px solid crimson;
+    width: 50%;
+}
