@@ -85,3 +85,18 @@ However, if we use display=block, their Parents's Son and daughter image not sho
 
 /* In,Assignment No.4 -> Their Child's Image shown as Zoom/Big Size.
 Because We use Width=50%... */
+
+
+.Parents-5{
+    background-color: darkcyan;
+}
+
+.Parents-5 img{
+    border: 1.5px solid crimson;
+    width: 50%;
+}
+
+/* In,Assignment No.5 -> Parent div Contain Full Height of their Div. 
+But, We gave width=50% of Parents Div*/
+
+
